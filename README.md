@@ -1,6 +1,6 @@
 # node-and-docker-basics
 
-#### 1. Build command
+## 1. Build command
 
 ```bash
 docker build .
